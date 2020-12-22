@@ -32,7 +32,7 @@
 * {
   padding: 0;
   margin: 0;
-  /* outline: 2px solid tomato; */
+  outline: 2px solid tomato;
 }
 ul,
 .link,
@@ -753,6 +753,10 @@ https://mariia-kovalchuk.github.io/goit-markup-hw-05/index.html */
 .google-address {
   color: var(--primary-background-color);
   font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
 }
 .footer-link:not(:first-child) {
   margin-top: 9px;
